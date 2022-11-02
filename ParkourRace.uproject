@@ -2,5 +2,18 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.0",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ParkourRace",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PureWeb",
+			"Enabled": true
+		}
+	]
 }
